@@ -8,32 +8,11 @@
 
 <h1 align="center">PacmenFactory</h1>
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{grburgos68}}/pacmenfactory?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{grburgos68}}/pacmenfactory?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{grburgos68}}/pacmenfactory?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/{{grburgos68}}/pacmenfactory?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{grburgos68}}/pacmenfactory?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{grburgos68}}/pacmenfactory?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{grburgos68}}/pacmenfactory?color=56BEB8" /> -->
-</p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  PacmenFactory 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
 
 <p align="center">
   <a href="#dart-description">Description</a> &#xa0; | &#xa0; 
+  <a href="#dart-features">Features</a> &#xa0; | &#xa0; 
   <a href="#sparkles-roadmap-to-future-improvements">Roadmap to future improvements</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
@@ -48,11 +27,20 @@
 
 Ejercicio de la semana 7 de la certificación en programaciòn Full Stack MERN del MITxpro
 
+
 [Demo](https://grburgos68.github.io/PacmenFactory/)
+
+
+## :dart: Features ##
+
+:heavy_check_mark: There is a button to add more pacmen;\
+:heavy_check_mark: When pacmen detect wall boundaries, move back;\
+:heavy_check_mark: Every pacmen move randomly;
+
+
 
 ## :sparkles: Roadmap to future improvements ##
 
-to improvements
 		  
 :heavy_check_mark: Avoid pacmen collapse each other;\
 :heavy_check_mark: Decrease the number of pacmen;\
@@ -71,7 +59,7 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) installed.
 
 ## :checkered_flag: How to run ##
 
