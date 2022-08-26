@@ -47,6 +47,7 @@
 ## :dart: About ##
 
 Ejercicio de la semana 7 de la certificación en programaciòn Full Stack MERN del MITxpro
+Demo (https://grburgos68.github.io/PacmenFactory/)
 
 ## :sparkles: Features ##
 
